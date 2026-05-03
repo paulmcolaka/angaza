@@ -1,17 +1,17 @@
-# ANGAZA PRESENT
+# ANGAZA
 ## End User License Agreement (EULA)
 
 **Version 1.0 — Effective Date: 2025**
 
 ---
 
-> This End User License Agreement ("Agreement") is a legally binding contract between you ("Licensee," "you," or "your") and **Angaza Technologies Ltd.**, a company registered in the Republic of Kenya ("Angaza," "we," "us," or "our"). By installing, downloading, activating, or using Angaza Present ("the Software"), you confirm that you have read, understood, and agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
+> This End User License Agreement ("Agreement") is a legally binding contract between you ("Licensee," "you," or "your") and **Angaza Technologies Ltd.**, a company registered in the Republic of Kenya ("Angaza," "we," "us," or "our"). By installing, downloading, activating, or using Angaza ("the Software"), you confirm that you have read, understood, and agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
 
 ---
 
 ## 1. Definitions
 
-**1.1 "Software"** means the Angaza Present desktop application (Windows and macOS), all associated files, documentation, updates, upgrades, and patches provided by Angaza Technologies Ltd.
+**1.1 "Software"** means the Angaza desktop application (Windows and macOS), all associated files, documentation, updates, upgrades, and patches provided by Angaza Technologies Ltd.
 
 **1.2 "Subscription"** means a recurring payment arrangement that grants the Licensee a time-limited right to use the Software at a specified tier level (Starter, Standard, or Mega), as defined in the Pricing Schedule at `https://angaza.app/pricing`.
 
@@ -149,11 +149,11 @@ This mechanism protects against subscription fraud via system clock manipulation
 
 **6.1 Marketplace Access.** The Software includes access to the Angaza Creator Marketplace, where Creators publish Marketplace Themes for use within the Software. Access to the Marketplace is subject to your Subscription tier.
 
-**6.2 Theme License.** Upon purchase of a Marketplace Theme, you are granted a non-exclusive, non-transferable license to install and use that Theme within the Angaza Present Software on Devices covered by your Subscription. You may not:
+**6.2 Theme License.** Upon purchase of a Marketplace Theme, you are granted a non-exclusive, non-transferable license to install and use that Theme within the Angaza Software on Devices covered by your Subscription. You may not:
 
 (a) Redistribute, resell, sublicense, or share the Theme file with any person;
 
-(b) Reverse engineer, extract, or reuse the Theme's assets outside of Angaza Present;
+(b) Reverse engineer, extract, or reuse the Theme's assets outside of Angaza;
 
 (c) Represent the Theme as your own creation.
 
@@ -201,7 +201,7 @@ This mechanism protects against subscription fraud via system clock manipulation
 
 **8.4 Third-Party Components.** The Software incorporates third-party open-source components, including but not limited to Flutter (BSD 3-Clause), whisper.cpp (MIT), and Prisma (Apache 2.0). Notices and licence terms for these components are included in the `THIRD_PARTY_LICENSES.txt` file distributed with the Software. Your rights with respect to these components are governed by their respective licences.
 
-**8.5 Trademarks.** "Angaza Present," "Angaza," and the Angaza logo are trademarks of Angaza Technologies Ltd. You may not use these marks without prior written consent. "M-Pesa" is a registered trademark of Safaricom PLC.
+**8.5 Trademarks.** "Angaza," "Angaza," and the Angaza logo are trademarks of Angaza Technologies Ltd. You may not use these marks without prior written consent. "M-Pesa" is a registered trademark of Safaricom PLC.
 
 ---
 
@@ -363,10 +363,10 @@ Nairobi, Republic of Kenya
 
 ---
 
-*By installing or using Angaza Present, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms.*
+*By installing or using Angaza, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms.*
 
 ---
 
 **© 2025 Angaza Technologies Ltd. All rights reserved.**
 
-*Angaza Present — "To Illuminate" — Built for Africa.*
+*Angaza — "To Illuminate" — Built for Africa.*
