@@ -1,4 +1,4 @@
-# Angaza Present
+# Angaza
 
 > **"To Illuminate"** — Professional church presentation software built for the African market.
 
@@ -9,11 +9,11 @@
 
 ---
 
-## What is Angaza Present?
+## What is Angaza?
 
-Angaza Present is a church presentation platform engineered from the ground up for the African church — not exported from the West with a currency converter attached. It runs on the hardware African churches already own, accepts payment via M-Pesa, works 100% offline, and includes an AI Sermon Assist system that transcribes and detects Scripture references locally on the operator's machine — no cloud, no API fees, no internet dependency.
+Angaza is a church presentation platform engineered from the ground up for the African church — not exported from the West with a currency converter attached. It runs on the hardware African churches already own, accepts payment via M-Pesa, works 100% offline, and includes an AI Sermon Assist system that transcribes and detects Scripture references locally on the operator's machine — no cloud, no API fees, no internet dependency.
 
-**The problem it solves:** Over 600,000 churches in Sub-Saharan Africa project Scripture, lyrics, and sermon content every Sunday. The tools they are forced to use — ProPresenter, EasyWorship — require expensive dedicated GPUs, USD credit card billing, and constant cloud connectivity. Angaza Present removes all three barriers.
+**The problem it solves:** Over 600,000 churches in Sub-Saharan Africa project Scripture, lyrics, and sermon content every Sunday. The tools they are forced to use — ProPresenter, EasyWorship — require expensive dedicated GPUs, USD credit card billing, and constant cloud connectivity. Angaza removes all three barriers.
 
 ---
 
@@ -400,7 +400,7 @@ BIBLE_API_KEY=
 ADMIN_SECRET=dev-admin-secret
 CRON_SECRET=dev-cron-secret
 EMAIL_SERVER=smtp://localhost:1025
-EMAIL_FROM=Angaza Present <dev@angaza.app>
+EMAIL_FROM=Angaza <dev@angaza.app>
 EOF
 
 # 4. Run database migrations and seed
@@ -418,7 +418,7 @@ Prisma Studio (database GUI): `npx prisma studio`
 
 ### Deployment — Coolify (Production)
 
-Angaza Present deploys entirely on Coolify with no dependency on Supabase Cloud or Vercel.
+Angaza deploys entirely on Coolify with no dependency on Supabase Cloud or Vercel.
 
 **Services deployed on Coolify:**
 1. **PostgreSQL** — Coolify managed database resource (internal connection only, no public port)
@@ -590,7 +590,7 @@ We will respond within 48 hours and aim to patch critical issues within 7 days.
 
 ## Contributing
 
-Angaza Present is a commercial product. Contributions from the African developer community are welcome under specific conditions:
+Angaza is a commercial product. Contributions from the African developer community are welcome under specific conditions:
 
 1. **Bug reports** — Open a GitHub issue with steps to reproduce and system information
 2. **Feature requests** — Open a GitHub discussion, not an issue
@@ -617,9 +617,9 @@ We particularly welcome contributions from Kenyan, East African, and broader Afr
 
 ## License
 
-Angaza Present is proprietary software. See [LICENSE.md](LICENSE.md) for full terms.
+Angaza is proprietary software. See [LICENSE.md](LICENSE.md) for full terms.
 
-The desktop application is licensed per-device, per-subscription-tier. The creator marketplace theme files you purchase are licensed for use within Angaza Present only. The creator's intellectual property remains their own.
+The desktop application is licensed per-device, per-subscription-tier. The creator marketplace theme files you purchase are licensed for use within Angaza only. The creator's intellectual property remains their own.
 
 ---
 
